@@ -641,7 +641,7 @@ gitalk:
   repo: blog-comment # Repository name to store issues
   client_id: 87a257476a95fcf272f3 # GitHub Application Client ID
   client_secret: 00faa256d339e630e66a7115f0303fdf3906313c # GitHub Application Client Secret
-  admin_user: # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
+  admin_user: fzf404 # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
   distraction_free_mode: true # Facebook-like distraction free mode
   # Gitalk's display language depends on user's browser or system environment
   # If you want everyone visiting your site to see a uniform language, you can set a force language value
