@@ -27,15 +27,15 @@ export default function Layout({ children, home }) {
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
             <div className={styles.headerLink}>
-              <a href="https://www.fzf404.top/" target="_blank">
+              <a href="https://www.fzf404.top/" target="_blank" rel="noreferrer">
                 首页
               </a>
               <span>｜</span>
-              <a href="https://www.fzf404.top/#/link" target="_blank">
+              <a href="https://www.fzf404.top/#/link" target="_blank" rel="noreferrer">
                 友链
               </a>
               <span>｜</span>
-              <a href="https://note.fzf404.top/" target="_blank">
+              <a href="https://note.fzf404.top/" target="_blank" rel="noreferrer">
                 笔记
               </a>
             </div>
