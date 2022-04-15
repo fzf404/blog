@@ -147,48 +147,48 @@ How are you？\_\_\_\_\_\_\_\_?
 
 - 他想要干什么？
 
-<img src="https://gitee.com/nmdfzf404/Image-hosting/raw/master/2021/202110221033118.png" alt="image-20211022103319806" style="zoom:50%;" />
+<img src="https://img-1257284600.cos.ap-beijing.myqcloud.com/2021/202110221033118.png" alt="image-20211022103319806" style="zoom:50%;" />
 
 - 这位哲学家在发出什么感叹？
 
-![image-20211022103343415](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2021/202110221033452.png)
+![image-20211022103343415](https://img-1257284600.cos.ap-beijing.myqcloud.com/2021/202110221033452.png)
 
 - 他在请人吃什么？
 
-<img src="https://gitee.com/nmdfzf404/Image-hosting/raw/master/2021/202110221034082.png" alt="image-20211022103409007" style="zoom:50%;" />
+<img src="https://img-1257284600.cos.ap-beijing.myqcloud.com/2021/202110221034082.png" alt="image-20211022103409007" style="zoom:50%;" />
 
 - 他最近怎么了？
 
-![image-20211022103421695](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2021/202110221034726.png)
+![image-20211022103421695](https://img-1257284600.cos.ap-beijing.myqcloud.com/2021/202110221034726.png)
 
 - 他们在跳什么？
 
-![image-20211022103447765](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2021/202110221034799.png)
+![image-20211022103447765](https://img-1257284600.cos.ap-beijing.myqcloud.com/2021/202110221034799.png)
 
 - 掌声送给
 
-<img src="https://gitee.com/nmdfzf404/Image-hosting/raw/master/2021/202110221035470.png" alt="image-20211022103506428" style="zoom:67%;" />
+<img src="https://img-1257284600.cos.ap-beijing.myqcloud.com/2021/202110221035470.png" alt="image-20211022103506428" style="zoom:67%;" />
 
 - 他唱的什么歌？
 
-![未命名图片](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2021/202110221037847.png)
+![未命名图片](https://img-1257284600.cos.ap-beijing.myqcloud.com/2021/202110221037847.png)
 
 - 潘叔想教会嘎子什么道理？
 
-![u=822176437,759416688&fm=15&fmt=auto](https://gitee.com/nmdfzf404/Image-hosting/raw/master/2021/202110221040234.jpeg)
+![u=822176437,759416688&fm=15&fmt=auto](https://img-1257284600.cos.ap-beijing.myqcloud.com/2021/202110221040234.jpeg)
 
 - 他喜欢什么？
 
-<img src="https://gitee.com/nmdfzf404/Image-hosting/raw/master/2021/202110221041915.png" alt="image-20211022104108879" style="zoom:67%;" />
+<img src="https://img-1257284600.cos.ap-beijing.myqcloud.com/2021/202110221041915.png" alt="image-20211022104108879" style="zoom:67%;" />
 
 - 他每天三点要去干嘛？
 
-<img src="https://gitee.com/nmdfzf404/Image-hosting/raw/master/2021/202110221041434.png" alt="image-20211022104126395" style="zoom:50%;" />
+<img src="https://img-1257284600.cos.ap-beijing.myqcloud.com/2021/202110221041434.png" alt="image-20211022104126395" style="zoom:50%;" />
 
 - 他是哪里人？
 
-<img src="https://gitee.com/nmdfzf404/Image-hosting/raw/master/2021/202110221041383.png" alt="image-20211022104140355" style="zoom:50%;" />
+<img src="https://img-1257284600.cos.ap-beijing.myqcloud.com/2021/202110221041383.png" alt="image-20211022104140355" style="zoom:50%;" />
 
 - 他（右一）对什么不感兴趣？
 
-<img src="https://gitee.com/nmdfzf404/Image-hosting/raw/master/2021/202110221042527.png" alt="image-20211022104235495" style="zoom:60%;" />
+<img src="https://img-1257284600.cos.ap-beijing.myqcloud.com/2021/202110221042527.png" alt="image-20211022104235495" style="zoom:60%;" />
