@@ -8,17 +8,25 @@
 #newtab = true
 
 [[social]]
+identifier = "rss"
+name = "RSS"
+url = "https://blog.fzf404.top/index.xml"
+
+[social.params]
+icon = "rss"
+
+[[social]]
+identifier = "home"
+name = "Home"
+url = "https://www.fzf404.top"
+
+[social.params]
+icon = "home"
+
+[[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/fzf404"
 
 [social.params]
 icon = "brand-github"
-
-[[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
-
-[social.params]
-icon = "brand-twitter"
