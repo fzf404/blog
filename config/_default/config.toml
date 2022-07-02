@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 baseurl = "https://blog.fzf404.top"
 languageCode = "zh-cn"
-paginate = 10
+paginate = 8
 title = "fzf404 | 博客"
 
 # Theme i18n support
