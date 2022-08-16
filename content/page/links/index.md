@@ -7,7 +7,8 @@ menu:
     params:
       icon: link
 ---
-> 友联请前往 [这里](https://www.fzf404.top/#/link)
+
+> 友联请前往 [这里](https://www.fzf404.art/#/link)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fzf404&repo=Monit&bg_color=f5f5fa)](https://github.com/fzf404/Monit)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fzf404&repo=Pixxel&bg_color=f5f5fa)](https://github.com/fzf404/Pixxel)

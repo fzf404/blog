@@ -10,7 +10,7 @@
 [[social]]
 identifier = "rss"
 name = "RSS"
-url = "https://blog.fzf404.top/index.xml"
+url = "https://blog.fzf404.art/index.xml"
 
 [social.params]
 icon = "rss"
@@ -18,7 +18,7 @@ icon = "rss"
 [[social]]
 identifier = "home"
 name = "Home"
-url = "https://www.fzf404.top"
+url = "https://www.fzf404.art"
 
 [social.params]
 icon = "home"

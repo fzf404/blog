@@ -2,7 +2,7 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "https://www.fzf404.top/favicon.svg"
+favicon = "https://www.fzf404.art/favicon.svg"
 
 [footer]
 since = 2018
@@ -18,7 +18,7 @@ subtitle = "理想主义者"
 [sidebar.avatar]
 enabled = true
 local = false
-src = "https://www.fzf404.top/public/avatar.webp"
+src = "https://www.fzf404.art/public/avatar.webp"
 
 [article]
 math = false
@@ -68,6 +68,6 @@ provider = "gitalk"
 [comments.gitalk]
 owner = "fzf404"
 admin = "fzf404"
-repo = "fzf404.github.io"
+repo = "blog"
 clientID = "96bc5e5937f5c57472ac"
 clientSecret = "f04829c119b384505192de518b0d7ba8eac7e719"
