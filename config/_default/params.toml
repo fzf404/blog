@@ -2,7 +2,7 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "https://www.fzf404.art/favicon.svg"
+favicon = "https://cdn.jsdelivr.net/gh/fzf404/image/favicon.ico"
 
 [footer]
 since = 2018
@@ -18,7 +18,7 @@ subtitle = "理想主义者"
 [sidebar.avatar]
 enabled = true
 local = false
-src = "https://www.fzf404.art/public/avatar.webp"
+src = "https://cdn.jsdelivr.net/gh/fzf404/image/avatar.webp"
 
 [article]
 math = false
