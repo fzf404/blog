@@ -3,6 +3,7 @@ baseurl = "https://blog.fzf404.art"
 languageCode = "zh-cn"
 paginate = 8
 title = "fzf404 | 博客"
+rssLimit = 8
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
