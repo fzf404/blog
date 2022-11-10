@@ -18,7 +18,7 @@ icon = "rss"
 [[social]]
 identifier = "home"
 name = "Home"
-url = "https://www.fzf404.art/"
+url = "https://fzf404.art/"
 
 [social.params]
 icon = "home"
