@@ -14,7 +14,7 @@ menu:
 [![Monit](https://github-readme-stats.vercel.app/api/pin/?username=fzf404&repo=Monit&bg_color=f5f5fa)](https://github.com/fzf404/Monit)
 [![Sedom](https://github-readme-stats.vercel.app/api/pin/?username=fzf404&repo=Sedom&bg_color=f5f5fa)](https://github.com/fzf404/Sedom)
 [![Pixxel](https://github-readme-stats.vercel.app/api/pin/?username=fzf404&repo=Pixxel&bg_color=f5f5fa)](https://github.com/fzf404/Pixxel)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fzf404&repo=Tabox&bg_color=f5f5fa)](https://github.com/fzf404/Tabox)
+[![Tabox](https://github-readme-stats.vercel.app/api/pin/?username=fzf404&repo=Tabox&bg_color=f5f5fa)](https://github.com/fzf404/Tabox)
 [![CameraHelper](https://github-readme-stats.vercel.app/api/pin/?username=fzf404&repo=CameraHelper&bg_color=f5f5fa)](https://github.com/fzf404/CameraHelper)
 [![TextHider](https://github-readme-stats.vercel.app/api/pin/?username=fzf404&repo=TextHider&bg_color=f5f5fa)](https://github.com/fzf404/TextHider)
 [![webrtc](https://github-readme-stats.vercel.app/api/pin/?username=fzf404&repo=webrtc&bg_color=f5f5fa)](https://github.com/fzf404/webrtc)
