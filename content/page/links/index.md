@@ -21,7 +21,7 @@ menu:
 [![favor](https://github-readme-stats.vercel.app/api/pin/?username=fzf404&repo=favor&bg_color=f5f5fa)](https://github.com/fzf404/favor)
 [![intro](https://github-readme-stats.vercel.app/api/pin/?username=fzf404&repo=intro&bg_color=f5f5fa)](https://github.com/fzf404/intro)
 [![Conship](https://github-readme-stats.vercel.app/api/pin/?username=QinLiStudio&repo=Conship&bg_color=f5f5fa)](https://github.com/QinLiStudio/Conship)
-[![WebHooks](https://github-readme-stats.vercel.app/api/pin/?username=fzf404&repo=GoWebHooks&bg_color=f5f5fa)](https://github.com/fzf404/WebHooks)
+[![WebHooks](https://github-readme-stats.vercel.app/api/pin/?username=fzf404&repo=GoWebHooks&bg_color=f5f5fa)](https://github.com/fzf404/WebHook)
 [![gover](https://github-readme-stats.vercel.app/api/pin/?username=fzf404&repo=gover&bg_color=f5f5fa)](https://github.com/fzf404/gover)
 [![todo-tech](https://github-readme-stats.vercel.app/api/pin/?username=fzf404&repo=todo-tech&bg_color=f5f5fa)](https://github.com/fzf404/todo-tech)
 [![MiniSys](https://github-readme-stats.vercel.app/api/pin/?username=fzf404&repo=MiniSys&bg_color=f5f5fa)](https://github.com/fzf404/MiniSys)

@@ -10,24 +10,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: checkout
         uses: actions/checkout@v3
 
-      - name: Golang
+      - name: golang
         uses: actions/setup-go@v3
         with:
           go-version: ^1.17.0
 
-      - name: Hugo
+      - name: hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: latest
           extended: true
 
-      - name: Build
+      - name: build
         run: hugo --minify --gc
 
-      - name: Deploy
+      - name: deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
