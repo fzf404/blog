@@ -20,8 +20,8 @@ local = false
 src = "https://img.fzf404.art/avatar.webp"
 
 [article]
-math = false
 toc = true
+math = false
 readingTime = true
 
 ## Widgets
