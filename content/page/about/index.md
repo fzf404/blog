@@ -10,5 +10,5 @@ menu:
 ---
 
 > 正在施工中……
-> 
-> [关于我](https://www.fzf404.art/about)
+>
+> [关于我](https://fzf404.art/about)
